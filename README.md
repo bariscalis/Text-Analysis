@@ -12,3 +12,5 @@ This study, unlike the general meaning integrity of a text, aims to reveal which
 For example, as can be seen in Figure 1, topics an advertisement-text. Moreover, a correlation can be established between the text and sales figures. In this way, the impact of the text to the sales can be evaluated comparatively. In addition, by identifying the general theme of the text, the relevant words for this theme can be determined  by using the created dictionary; in doing so, an original text can be created.
 
 <img src="https://github.com/bariscalis/Text-Analysis/blob/master/Bar%20Chart.png">
+
+*Figure 1 : Bar chart of a small number of twitter ad texts of a world famous popular brand on a study basis.*</span>
